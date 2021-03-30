@@ -1,2 +1,10 @@
 # FrontendMentor-Challenge
-Each branch represent a challenge i'm working on or finished
+Each branch represent a challenge or a tutoriel i've attend to on the web. 
+
+Finished : 
+
+Blogr - Landing-Page
+
+Work in Progress : 
+
+3D animation JS
