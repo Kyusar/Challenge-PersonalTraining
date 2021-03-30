@@ -1,0 +1,7 @@
+@mixin redGradient($direction) {
+  background: linear-gradient(to $direction, $bgVeryLightRed, $bgLightRed);
+}
+
+@mixin blueGradient($direction) {
+  background: linear-gradient(to $direction, $bgDarkGreyBlue, $bgDarkBlue);
+}
