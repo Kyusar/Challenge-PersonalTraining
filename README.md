@@ -1,4 +1,4 @@
-# FrontendMentor-Challenge
+# Challenge-PersonalTraing
 Each branch represent a challenge or a tutoriel i've attend to on the web. 
 
 Finished : 
