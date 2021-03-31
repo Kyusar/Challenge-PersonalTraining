@@ -1,10 +1,10 @@
-# FrontendMentor-Challenge
-Each branch represent a challenge or a tutoriel i've attend to on the web. 
+# Challenge-PersonalTraing
 
-Finished : 
+Each branch represent a challenge or a tutoriel i've attend to on the web.
 
-Blogr - Landing-Page
+Finished :
 
-Work in Progress : 
+Blogr - Landing-Page FROM FrontEnd Mentor
+3D animation JS FROM https://www.youtube.com/watch?v=XK7T3mY1V-w&ab_channel=DevEd
 
-3D animation JS
+Work in Progress :
